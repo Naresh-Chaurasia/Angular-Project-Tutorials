@@ -5,4 +5,4 @@
 
 == Create Project
 
-link:Create-Project.adoc[Hello]
+link:Create-Angular-Project.adoc[Create Angular Project]
