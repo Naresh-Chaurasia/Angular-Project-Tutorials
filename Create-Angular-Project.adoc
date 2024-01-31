@@ -3,9 +3,6 @@
 :toclevels: 5
 :sectnums:
 
-
-Certainly! Here are step-by-step instructions to create an Angular project with the necessary prerequisites:
-
 ### Prerequisites:
 
 1. **Node.js and npm:**
@@ -46,9 +43,3 @@ ng serve
 ```bash
 code .
 ```
-Replace `code` with the command for your specific code editor.
-
-5. **Explore and Develop:**
-- Now that your Angular project is set up, you can start developing your application. The development server will automatically reload your application as you make changes to the source code.
-
-Remember to install any additional dependencies or libraries your project may require using npm as you proceed with development.
