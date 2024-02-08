@@ -1,0 +1,43 @@
+= Getting Started with NPM
+:toc: left
+:toclevels: 5
+:sectnums:
+
+1. **Introduction to npm (0:00 - 01:00)**
+- Brief explanation of npm: What is npm? (Node Package Manager)
+- Its role in the Node.js ecosystem.
+
+2. **Installation of Node.js and npm (01:00 - 02:30)**
+- How to download and install Node.js (mention LTS version).
+- Verify Node.js and npm installation.
+- Brief explanation of npm being bundled with Node.js.
+
+3. **npm Basics (02:30 - 04:00)**
+- Introduction to npm commands: `npm init`, `npm install`, `npm uninstall`.
+- Creating a simple project using `npm init`.
+- Installing dependencies with `npm install`.
+
+4. **Understanding package.json (04:00 - 05:30)**
+- Explanation of the `package.json` file and its importance.
+- Discussing key properties like `name`, `version`, and `dependencies`.
+
+5. **Working with npm Scripts (05:30 - 07:00)**
+- Overview of npm scripts in the `package.json`.
+- Creating and running custom scripts.
+- Commonly used scripts like `start`, `test`, etc.
+
+6. **Dependency Management (07:00 - 08:30)**
+- Understanding semantic versioning (SemVer).
+- Explaining dependencies, devDependencies, and peerDependencies.
+- How to update packages using `npm update`.
+
+7. **npm Registry and Scopes (08:30 - 09:30)**
+- Overview of the npm registry.
+- Using scoped packages.
+- Publishing your own packages to the registry.
+
+8. **Security Considerations (09:30 - 10:00)**
+- Briefly discussing security in npm.
+- Using `npm audit` to check for vulnerabilities.
+- Best practices for securing your dependencies.
+

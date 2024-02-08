@@ -3,6 +3,10 @@
 :toclevels: 5
 :sectnums:
 
+image::./img/Angular-screen.png[]
+
+---
+
 ### Prerequisites:
 
 1. **Node.js and npm:**
